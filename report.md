@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/avpronina/homework1/issues
+* https://github.com/avpronina/homework1/issues/1
 
 
 ## Описание процесса тестирования
